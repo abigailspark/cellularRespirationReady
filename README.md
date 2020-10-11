@@ -10,7 +10,7 @@ Demo Video Link: https://www.youtube.com/watch?v=gPvosBi62cU
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygame.
 
 ```bash
-pip install pygame
+pip3 install pygame
 ```
 # How to Run
 Run ```app.py```
